@@ -24,7 +24,7 @@ Elegant presentation template in LaTeX and Typst
 |-------|-------|
 | ![Tiffany Blue Cover](screenshots/typst-touying/stargazer/tiffany_blue_cover.png) | ![Tiffany Blue Inner](screenshots/typst-touying/stargazer/tiffany_blue_inner.png) |
 
-### Sunbrella Yellow
+### Schenbrunn Yellow
 | Cover | Inner |
 |-------|-------|
 | ![Sunbrella Yellow Cover](screenshots/typst-touying/stargazer/sunbrella_yellow_cover.png) | ![Sunbrella Yellow Inner](screenshots/typst-touying/stargazer/sunbrella_yellow_inner.png) |
