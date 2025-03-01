@@ -12,30 +12,30 @@
     logo: emoji.package,
   ),
 
-  // // 主题: 标准绿
+  // // 主题: 标准绿(Standard Green)
   config-colors(
     primary: rgb("#006600"),
     primary-dark: rgb("#004400"),
   ),
 
-  // 主题： 马尔斯绿
+  // 主题： 马尔斯绿(Mars Green)
   // config-colors(
   //   primary: rgb("#008C8C"), // 马尔斯绿
   //   primary-dark: rgb("#31a4a4"),
   // ),
 
-  // 主题： 克莱因蓝
+  // 主题： 克莱因蓝(Klein Blue)
   // config-colors(
   //   primary: rgb("#002FA7"), // 克莱因蓝
   //   primary-dark: rgb("#1f3a7f"),
   // ),
-  // 主题： 蒂芙尼蓝
+  // 主题： 蒂芙尼蓝(Tiffany Blue)
   // config-colors(
   //   primary: rgb("#81D8D0"), // 蒂芙尼蓝
   //   primary-dark: rgb("#5a958f"),
   // ),
 
-  // 主题： 申布伦黄
+  // 主题： 申布伦黄(Sunbrella Yellow)
   // config-colors(
   //   primary: rgb("#F7E14D"), // 申布伦黄
   //   primary-dark: rgb("#9e8e26"),
