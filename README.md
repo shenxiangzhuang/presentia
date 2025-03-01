@@ -39,3 +39,6 @@ Elegant presentation template in LaTeX and Typst
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+
+## References
+- The four colors are heard from [X/Twitter](https://x.com/not_2b_or_2b/status/1894819126788358296)
