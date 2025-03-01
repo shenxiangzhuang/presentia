@@ -2,6 +2,7 @@
 Elegant presentation template in LaTeX and Typst
 
 ## Typst: Touying Stargazer
+[Go to Touying Stargazer Template →](typst/touying-stargazer)
 
 ### Standard Green
 | Cover | Inner |
@@ -29,6 +30,8 @@ Elegant presentation template in LaTeX and Typst
 | ![Sunbrella Yellow Cover](screenshots/typst-touying/stargazer/sunbrella_yellow_cover.png) | ![Sunbrella Yellow Inner](screenshots/typst-touying/stargazer/sunbrella_yellow_inner.png) |
 
 ## LaTeX Beamer: Frankfurt
+[Go to Frankfurt Beamer Template →](latex/beamer-frankfurt)
+
 | Cover | Inner |
 |-------|-------|
 | ![Frankfurt Cover](screenshots/latex-beamer/frankfurt/cover.png) | ![Frankfurt Inner](screenshots/latex-beamer/frankfurt/inner.png) |
