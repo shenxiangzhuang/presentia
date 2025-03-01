@@ -1,13 +1,38 @@
 # Presentia
-Elegant presentation template in LaTex and Typst
-
+Elegant presentation template in LaTeX and Typst
 
 ## Typst: Touying Stargazer
 
 ### Standard Green
+| Cover | Inner |
+|-------|-------|
+| ![Standard Green Cover](screenshots/typst-touying/stargazer/standard_green_cover.png) | ![Standard Green Inner](screenshots/typst-touying/stargazer/standard_green_inner.png) |
 
+### Mars Green
+| Cover | Inner |
+|-------|-------|
+| ![Mars Green Cover](screenshots/typst-touying/stargazer/mars_green_cover.png) | ![Mars Green Inner](screenshots/typst-touying/stargazer/mars_green_inner.png) |
 
+### Klein Blue
+| Cover | Inner |
+|-------|-------|
+| ![Klein Blue Cover](screenshots/typst-touying/stargazer/klein_bleu_cover.png) | ![Klein Blue Inner](screenshots/typst-touying/stargazer/klein_bleu_inner.png) |
 
+### Tiffany Blue
+| Cover | Inner |
+|-------|-------|
+| ![Tiffany Blue Cover](screenshots/typst-touying/stargazer/tiffany_blue_cover.png) | ![Tiffany Blue Inner](screenshots/typst-touying/stargazer/tiffany_blue_inner.png) |
 
-## Latex Beamer: Frankfurt
+### Sunbrella Yellow
+| Cover | Inner |
+|-------|-------|
+| ![Sunbrella Yellow Cover](screenshots/typst-touying/stargazer/sunbrella_yellow_cover.png) | ![Sunbrella Yellow Inner](screenshots/typst-touying/stargazer/sunbrella_yellow_inner.png) |
+
+## LaTeX Beamer: Frankfurt
+| Cover | Inner |
+|-------|-------|
+| ![Frankfurt Cover](screenshots/latex-beamer/frankfurt/cover.png) | ![Frankfurt Inner](screenshots/latex-beamer/frankfurt/inner.png) |
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
