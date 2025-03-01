@@ -27,7 +27,7 @@ Elegant presentation template in LaTeX and Typst
 ### Schenbrunn Yellow
 | Cover | Inner |
 |-------|-------|
-| ![Sunbrella Yellow Cover](screenshots/typst-touying/stargazer/sunbrella_yellow_cover.png) | ![Sunbrella Yellow Inner](screenshots/typst-touying/stargazer/sunbrella_yellow_inner.png) |
+| ![Schenbrunn Yellow Cover](screenshots/typst-touying/stargazer/schenbrunn_yellow_cover.png) | ![Schenbrunn Yellow Inner](screenshots/typst-touying/stargazer/schenbrunn_yellow_inner.png) |
 
 ## LaTeX Beamer: Frankfurt
 [Go to Frankfurt Beamer Template →](latex/beamer-frankfurt)
@@ -41,4 +41,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ## References
-- The four colors are heard from [X/Twitter](https://x.com/not_2b_or_2b/status/1894819126788358296)
+The four colors are heard from [X/Twitter](https://x.com/not_2b_or_2b/status/1894819126788358296).
